@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:30/11/2024
-## Register Number:24900459
-## Name:SONA .S
+# Date:08-04-2025
+## Register Number:212224040297
+## Name:Saranya AV
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
